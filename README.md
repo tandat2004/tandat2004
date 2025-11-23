@@ -1,4 +1,4 @@
-### Hi there, I'm Dat (tandat2004) 👋
+### Hi there, I'm Uncle Ten (tandat2004) 👋
 #### 🎮 Game Developer & AI Enthusiast
 
 I focus on building immersive games with smart AI behaviors.
